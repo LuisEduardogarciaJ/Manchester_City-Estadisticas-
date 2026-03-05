@@ -36,28 +36,4 @@ El análisis permitió resaltar la importancia del juego colectivo del Mancheste
 #####   3) Descarga de datos a formato .csv
 #####   4) Visualización de las estadísticas ofensivas del equipo en Power Bi.
 
-#### Archivos:
-#####   - [📒Jupyter Notebook](WebScraping_fbref.ipynb)
-#####   - 📚3 Archivos .csv: [Partidos](matches.csv), [Esatídisticas de Pases](passing_stats.csv) y [Estadísiticas de Tiros](shooting_stats.csv)
-#####   - [📊Reporte interactivo en Power Bi](Manchester_City_Offensive_Stats.pbix)
-
-<p align="center">
-  <img src="Modelo_de_tablas.png" alt="Modelo_de_tablas" width="80%">
-</p>
-<p align="center">Modelo de Datos</p>
-
-<p align="center">
-  <img src="mancity1.jpg" alt="General Stats" width="80%">
-</p>
-<p align="center">General stats</p>
-
-<p align="center">
-  <img src="mancity2.jpg" alt="Passing Stats" width="80%">
-</p>
-<p align="center">Passing stats</p>
-
-<p align="center">
-  <img src="mancity3.jpg" alt="Shooting Stats" width="80%">
-</p>
-<p align="center">Shooting stats</p>
 
