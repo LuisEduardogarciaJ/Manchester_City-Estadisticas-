@@ -1,9 +1,5 @@
 # Estadísticas Ofensivas del Manchester City (Premier League 2023/24)
 
-<p align="center">
-  <img src="Premier_League_Logo.png" alt="Premier League Logo" width="50%">
-</p>
-
 #### **Proyecto de Análisis de Datos en Fútbol: Manchester City Temporada 2023/2024 en la Premier League - Énfasis en la Fase Ofensiva del Juego**
 
 ### Descripción del Proyecto:
